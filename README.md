@@ -19,7 +19,5 @@ Se utilizó una Raspberry Pi 4 con el hostname `eiot6cm3`.
 
 ### Prueba de Broker:
 Para verificar el funcionamiento, se ejecutó un suscriptor local:
-```bash
-mosquitto_sub -h localhost -t "escom/iot/prueba" -v
-<img width="851" height="203" alt="Captura de pantalla 2026-04-18 182651" src="https://github.com/user-attachments/assets/3e133dde-4828-4785-b2f5-9debdbf5d463" />
-<img width="1920" height="1080" alt="Captura de pantalla (83)" src="https://github.com/user-attachments/assets/3b3a1960-9773-4f59-b103-4b6f4456947e" />
+
+```bash mosquitto_sub -h localhost -t "escom/iot/prueba" -v

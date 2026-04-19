@@ -39,3 +39,24 @@
 
 # debug information files
 *.dwo
+
+# ==========================================
+# REGLAS ESPECÍFICAS PARA ESP32 E IOT
+# ==========================================
+
+# Archivos de compilación de Arduino/PlatformIO
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+
+# Configuraciones de editor locales (Para que tu equipo no tenga conflictos)
+.vscode/
+.idea/
+*.swp
+
+# Archivos basura del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

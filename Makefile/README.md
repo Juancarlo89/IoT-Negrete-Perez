@@ -1,7 +1,7 @@
 # Automatización de Compilación con Makefiles
 
 **Escuela Superior de Cómputo (ESCOM) - IPN** **Carrera:** Ingeniería en Sistemas Computacionales  
-**Autor:** Chang  
+**Autor:** Juan Carlos Negrete Pérez
 
 ## 1. Análisis del Repositorio de Ejemplo
 

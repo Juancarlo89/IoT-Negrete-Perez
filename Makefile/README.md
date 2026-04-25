@@ -53,7 +53,7 @@ Para compilar y ejecutar este proyecto en la terminal de PowerShell utilizando e
    Ejecuta el siguiente comando para enlazar temporalmente la ruta del compilador a tu sesión actual:
    ```powershell
    $env:Path = "C:\Program Files\CodeBlocks\MinGW\bin;" + $env:Path
-
+   mingw32-make
 2. Para compilar el código automáticamente, ejecuta:
    ```powershell
    make

@@ -1,0 +1,10 @@
+# Objetos compilados
+*.o
+
+# Ejecutables
+calculadora
+*.exe
+*.out
+
+# Archivos temporales
+*~
